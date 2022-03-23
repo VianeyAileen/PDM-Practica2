@@ -3,7 +3,10 @@ package com.example.pdm_practica2;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+/**
+ * @author Omar Gramer "GramerOmarFC" -
+ * <a href="grameromar@ciencias.unam.mx"> grameromar@ciencias.unam.mx </a>
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
